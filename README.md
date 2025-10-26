@@ -13,7 +13,7 @@
    </p>
 
 ---
-
+<br/>
 ### 🖥️ Linguagens e Tecnologia
 
 <div align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
