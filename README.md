@@ -4,6 +4,7 @@
 
  Me chamo Laura De Bona Sartor, tenho 18 anos e sou natural de Santa Catarina. Atualmente estou concluindo o meu Ensino Médio Técnico em Informática. Desde a infância, fui a pessoa que todos chamavam para ajudar em algo relacionado a tecnologia, essas experiências despertou a minha paixão pela área, onde me levou a escolher a Informática como profissão.
  <br/>
+ <br/>
  Ao longo da minha formação do técnico, desenvolvi habilidades em linguagens de programação, como HTML, CSS, PHP, Java, JavaScript e MySQL. Já desenvolvi alguns projetos, como criar sites responsivos e sistemas de cadastro, em que através disso eu consegui aplicar o meu conhecimento. Meu objetivo é ingressar na área do desenvolvimento, onde eu possa aprender e contribuir com projetos e planejo cursar Engenharia de Software para aprofundar meus conhecimentos e me tornar uma ótima profissional.
 
  
@@ -34,3 +35,4 @@
 ### Estatísticas
 
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laura-sartor&show_icons=true&theme-tokyonight&include_all_commits-true&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-sartor)](https://github.com/laura-sartor/github-readme-stats-true&locale=pt-br)
