@@ -34,5 +34,7 @@
 
 ### Estatísticas
 
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laura-sartor&show_icons=true&theme-tokyonight&include_all_commits-true&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-sartor)](https://github.com/laura-sartor/github-readme-stats-true&locale=pt-br)
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=laura-sartor&show_icons=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-sartor&layout=compact&theme=tokyonight"/>
+</p>
