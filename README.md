@@ -39,3 +39,20 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=laura-sartor&show_icons=true&theme=tokyonight"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-sartor&layout=compact&theme=tokyonight"/>
 </p>
+
+### 📚 Cursos Complementares
+<br/>
+
+• Terminal Linux e Prompt de Comando Windows–  Udemy- Carga Horária: 1,5h
+  Conclusão: Agosto/2025
+<br/>
+<br/>
+• Curso de Algoritmo - Curso em Vídeo - Carga Horária: 40h- Conclusão: Junho/2025
+<br/>
+<br/>
+• Curso Java Básico - Curso em Vídeo - Carga Horária:40h- Em andamento
+<br/>
+<br/>
+• Curso de Inglês - Kultivi - Carga Horária: 29h - Em andamento
+ 
+
