@@ -1,59 +1,25 @@
- # 🌟 Laura De Bona Sartor
+# 👋 Olá, eu sou a Laura!
 
- **`BackEnd Development`**
+## 🚀 **Desenvolvedora BackEnd**
 
- Me chamo Laura De Bona Sartor, tenho 18 anos e sou natural de Santa Catarina. Atualmente estou concluindo o meu Ensino Médio Técnico em Informática. Desde a infância, fui a pessoa que todos chamavam para ajudar em algo relacionado a tecnologia, essas experiências despertou a minha paixão pela área, onde me levou a escolher a Informática como profissão.
- <br/>
- <br/>
- Ao longo da minha formação do técnico, desenvolvi habilidades em linguagens de programação, como HTML, CSS, PHP, Java, JavaScript e MySQL. Já desenvolvi alguns projetos, como criar sites responsivos e sistemas de cadastro, em que através disso eu consegui aplicar o meu conhecimento. Meu objetivo é ingressar na área do desenvolvimento, onde eu possa aprender e contribuir com projetos e planejo cursar Engenharia de Software para aprofundar meus conhecimentos e me tornar uma ótima profissional.
+Tenho 18 anos, sou de Santa Catarina, e atualmente atuo como Assistente de Desenvolvimento de Software II. Concluí recentemente meu Ensino Médio Técnico em Informática, onde construí a base para minha carreira na tecnologia.
 
- 
-<p align="left">
-      <a href="https://github.com/Laura-Sartor?tab=followers">
-         <img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/laura-sartor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
-      <a href="https://github.com/Laura-Sartor?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Laura-Sartor?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+Desde pequena, sempre fui a pessoa que amigos e familiares procuravam para resolver problemas com tecnologia — seja consertando um sistema, explicando um aplicativo ou configurando dispositivos. Essas experiências despertaram minha paixão pela área e me guiaram até a escolha da profissão.
 
----
+Durante o técnico, desenvolvi habilidades em HTML, CSS, JavaScript, PHP, Java e MySQL. Coloquei esses conhecimentos em prática criando sites responsivos e sistemas de cadastro, e agora aplico essa experiência no meu dia a dia profissional como desenvolvedora.
 
-### 🖥️ Linguagens e Tecnologia
-<br/>
-<div align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-</div>
+Planejo ingressar em breve na graduação em Engenharia de Software para aprofundar ainda mais minha formação e continuar evoluindo na carreira de desenvolvimento.
 
-<br/>
-<br/>
+🛠️ Tecnologias e Ferramentas
+<div align="left" style="display: inline_block"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL" /> </div>
 
+📚 Cursos Complementares
+- Curso	Plataforma	Carga Horária	Status
+- Terminal Linux e Prompt de Comando Windows	Udemy	1,5h	✅ Concluído (Agosto/2025)
+- Curso de Algoritmo	Curso em Vídeo	40h	✅ Concluído (Junho/2025)
+- Curso Java Básico	Curso em Vídeo	40h	🟡 Em andamento
+- Curso de Inglês	Kultivi	29h	🟡 Em andamento
 
-### 📊 Estatísticas
-<br/>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Laura-Sartor&show_icons=true&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Sartor&layout=compact&theme=tokyonight"/>
-</p>
-<br/>
-
-### 📚 Cursos Complementares
-<br/>
-
-• Terminal Linux e Prompt de Comando Windows–  Udemy- Carga Horária: 1,5h
-  Conclusão: Agosto/2025
-<br/>
-<br/>
-• Curso de Algoritmo - Curso em Vídeo - Carga Horária: 40h- Conclusão: Junho/2025
-<br/>
-<br/>
-• Curso Java Básico - Curso em Vídeo - Carga Horária:40h- Em andamento
-<br/>
-<br/>
-• Curso de Inglês - Kultivi - Carga Horária: 29h - Em andamento
- 
+🌐 Conecte-se comigo
+<p align="left"> <a href="https://github.com/Laura-Sartor?tab=followers"> <img alt="seguidores" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Laura-Sartor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/> </a> <a href="https://github.com/Laura-Sartor?tab=repositories&sort=stargazers"> <img alt="estrelas" title="Repositórios com mais estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Laura-Sartor?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/> </a> </p>
 
