@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou a Laura!
 
-## 🚀 **Desenvolvedora BackEnd**
+## 🚀 **QA Júnior**
 
-Tenho 18 anos, sou de Santa Catarina, e atualmente atuo como Assistente de Desenvolvimento de Software II. Concluí recentemente meu Ensino Médio Técnico em Informática, onde construí a base para minha carreira na tecnologia.
+Tenho 18 anos, sou de Santa Catarina, e atualmente atuo como Desenvolvedora de Software I. Concluí recentemente meu Ensino Médio Técnico em Informática, onde construí a base para minha carreira na tecnologia.
 
 Desde pequena, sempre fui a pessoa que amigos e familiares procuravam para resolver problemas com tecnologia — seja consertando um sistema, explicando um aplicativo ou configurando dispositivos. Essas experiências despertaram minha paixão pela área e me guiaram até a escolha da profissão.
 
