@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Laura!
 
-## 🚀 **QA Júnior**
+## 🚀 **Desenvolvedora de Software I**
 
 Tenho 18 anos, sou de Santa Catarina, e atualmente atuo como Desenvolvedora de Software I. Concluí recentemente meu Ensino Médio Técnico em Informática, onde construí a base para minha carreira na tecnologia.
 
