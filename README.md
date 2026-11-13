@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Laura!
 
-## 🚀 **Desenvolvedora de Software I**
+## 🚀 **Desenvolvedora de Software I - QA **
 
 Atuo na área de desenvolvimento e qualidade de software, com foco em testes e qualidade de aplicações. Atualmente, sou Desenvolvedora de Software I na AGPR5, onde realizo testes manuais em aplicações Web e Mobile, validando funcionalidades, identificando inconsistências e contribuindo para a melhoria e qualidade das soluções desenvolvidas. Também atuo em atividades relacionadas a suporte técnico e implantação de sistemas, acompanhando processos e contribuindo para a resolução de demandas e disponibilização das soluções aos usuários.
 
