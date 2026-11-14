@@ -37,7 +37,7 @@ Sou **Desenvolvedora de Software I na AGPR5**, com atuação voltada à área de
 ## 💼 Vamos nos conectar?
 
 <p align="center">
-  <a href="www.linkedin.com/in/laura-de-bona-sartor](https://www.linkedin.com/in/laura-de-bona-sartor/" target="_blank">
+  <a href="https://www.linkedin.com/in/laura-de-bona-sartor" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
