@@ -1,6 +1,8 @@
-# 👩🏻‍💻 Olá! Eu sou a Laura Sartor
+<h1 align="center">👩🏻‍💻 Olá! Eu sou a Laura Sartor</h1>
 
-### Desenvolvedora de Software I | QA (Quality Assurance)
+<h3 align="center">
+  Desenvolvedora de Software I | QA (Quality Assurance)
+</h3>
 
 Sou da área de tecnologia, atualmente atuando com **QA**, realizando testes manuais em aplicações Web e Mobile, validação de funcionalidades e identificação de inconsistências.
 
@@ -26,12 +28,14 @@ Sou da área de tecnologia, atualmente atuando com **QA**, realizando testes man
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github" />
 </p>
 
-### 📊 GitHub
+
+### 📊 GitHub 
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Laura-Sartor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Sartor&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Laura-Sartor&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Sartor&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
