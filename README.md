@@ -31,15 +31,17 @@ Sou da área de tecnologia, atualmente atuando com **QA**, realizando testes man
 
 ### 📊 GitHub 
 
+<h2 align="center">📈 Minha atividade no GitHub</h2>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Laura-Sartor&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Sartor&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laura-Sartor&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
 
 
 ---
 
-### 🐍 Meus commits
+### ✨Meus commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Laura-Sartor/Laura-Sartor/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
