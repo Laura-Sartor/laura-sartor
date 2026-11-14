@@ -47,12 +47,14 @@ Sou da área de tecnologia, atualmente atuando com **QA**, realizando testes man
 
 ---
 
-### 📫 Vamos nos conectar?
 
-<p align="left">
+<h2 align="center">💼 Vamos nos conectar?</h2>
+
+<p align="center">
   <a href="www.linkedin.com/in/laura-de-bona-sartor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Laura%20Sartor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"/>
   </a>
 </p>
+
 
 </div>
