@@ -1,52 +1,43 @@
-<h1 align="center">👩🏻‍💻 Olá! Eu sou a Laura Sartor</h1>
+<!-- BANNER -->
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191932,50:34346B,100:8064B5&height=200&section=header&text=Laura%20Sartor&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Quality%20Assurance&descAlignY=60&animation=fadeIn"/>
 
-<h3 align="center">
-  Desenvolvedora de Software I | QA (Quality Assurance)
-</h3>
+</p>
 
-Sou da área de tecnologia, atualmente atuando com **QA**, realizando testes manuais em aplicações Web e Mobile, validação de funcionalidades e identificação de inconsistências.
-
-🎓 Cursando Engenharia de Software.
-
-💼 Desenvolvedora de Software I na AGPR5, com atuação em qualidade de software, suporte técnico e implantação de sistemas.
-
-🚀 Sempre buscando aprender, desenvolver novas habilidades e evoluir na área de tecnologia.
+<!-- TEXTO ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Desenvolvedora+de+Software+I;QA+%7C+Quality+Assurance;Manual+Software+Testing;Web+%26+Mobile+Testing" />
+</p>
 
 ---
 
-### 🧪 Minha atuação
+## 👩🏻‍💻 Sobre mim
 
-- Testes manuais de aplicações Web e Mobile
-- Quality Assurance (QA)
-- Validação de funcionalidades
-- Identificação de bugs e inconsistências
-- Suporte técnico e implantação de sistemas
+Sou **Desenvolvedora de Software I na AGPR5**, com atuação voltada à área de **QA (Quality Assurance)**.
 
-### 💻 Tecnologias e ferramentas
+- 🧪 Testes manuais em aplicações Web e Mobile.
+- 🔍 Validação de funcionalidades e identificação de inconsistências.
+- 💻 Suporte técnico e implantação de sistemas.
+- 🎓 Cursando Engenharia de Software.
+- 🚀 Sempre buscando aprender e evoluir na área de tecnologia.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github" />
+## 🛠️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github&theme=dark" />
 </p>
 
 
----
-
-### ✨Meus commits
+## ✨Minhas contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Laura-Sartor/Laura-Sartor/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
-
-<h2 align="center">💼 Vamos nos conectar?</h2>
+## 💼 Vamos nos conectar?
 
 <p align="center">
   <a href="www.linkedin.com/in/laura-de-bona-sartor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Laura%20Sartor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
-</div>
