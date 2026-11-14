@@ -2,14 +2,9 @@
 
 ## 🚀 **Desenvolvedora de Software I - QA**
 
-Atuo na área de desenvolvimento e qualidade de software, com foco em testes e qualidade de aplicações. Atualmente, sou Desenvolvedora de Software I na AGPR5, onde realizo testes manuais em aplicações Web e Mobile, validando funcionalidades, identificando inconsistências e contribuindo para a melhoria e qualidade das soluções desenvolvidas. Também atuo em atividades relacionadas a suporte técnico e implantação de sistemas, acompanhando processos e contribuindo para a resolução de demandas e disponibilização das soluções aos usuários.
+Desenvolvedora de Software I na AGPR5, com atuação voltada à área de QA (Quality Assurance). Trabalho com testes manuais em aplicações Web e Mobile, validando funcionalidades, identificando inconsistências e contribuindo para a qualidade dos softwares. Também atuo com suporte técnico e implantação de sistemas.
 
-Minha formação técnica em Informática proporcionou uma base em desenvolvimento web e programação, com conhecimentos em HTML, CSS, JavaScript, PHP, Java e MySQL. Ao longo da minha trajetória profissional, venho ampliando esses conhecimentos e direcionando minha experiência para testes, qualidade de software e processos de desenvolvimento.
-
-Atualmente, estou cursando Engenharia de Software, buscando aprofundar meus conhecimentos técnicos e acadêmicos e continuar evoluindo profissionalmente na área de tecnologia.
-
-Principais conhecimentos:
-Testes Manuais · Testes Web e Mobile · Qualidade de Software · Desenvolvimento Web · Suporte Técnico · Implantação de Sistemas · HTML · CSS · JavaScript · PHP · Java · MySQL
+Possuo conhecimentos em HTML, CSS, JavaScript, PHP, Java e MySQL, adquiridos durante minha formação técnica em Informática. Atualmente, curso Engenharia de Software, buscando ampliar meus conhecimentos e evoluir profissionalmente na área de tecnologia.
 
 🛠️ Tecnologias e Ferramentas
 <div align="left" style="display: inline_block"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL" /> </div>
