@@ -34,7 +34,7 @@ Sou da área de tecnologia, atualmente atuando com **QA**, realizando testes man
 <h2 align="center">📈 Minha atividade no GitHub</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laura-Sartor&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laura-Sartor&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 
